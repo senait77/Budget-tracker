@@ -70,7 +70,7 @@ With Nodemon:
 No current testing
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/senait77/Budget-tracker)
+:octocat: [Senait T Gerezgiher](https://github.com/senait77/Budget-tracker)
 
 ## Questions
 ✉️ Contact me with any questions: [email](senutekie77@gmail.com) , [GitHub](https://github.com/senait77/Budget-tracker)<br />
